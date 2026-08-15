@@ -8,6 +8,7 @@ namespace Design_Patterns.Behavioral_Design_Patterns.COR_Pattern.Services.Handle
         public override void Handle(decimal withdrawAmount)
         {
             decimal index = withdrawAmount / 5000;
+            index = Math.Truncate(index);
             if (index > 0)
             {
                 currentIndex -= index;
