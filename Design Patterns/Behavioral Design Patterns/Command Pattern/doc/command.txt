@@ -1,0 +1,2 @@
+﻿Command means request or action.
+Purpose : to make operation be object to be able to do undo and redo.
