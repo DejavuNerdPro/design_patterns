@@ -1,0 +1,12 @@
+﻿-Strategy Pattern က တူညီတဲ့အလုပ်တစ်ခုကို လုပ်နိုင်တဲ့ နည်းလမ်း (Algorithm) အမျိုးမျိုးကို Class တွေခွဲထားပြီး Runtime မှာ လိုအပ်တဲ့ Strategy ကို ရွေးသုံးတဲ့ Pattern ဖြစ်ပါတယ်။
+-ဥပမာ Payment System မှာ
+
+KBZPay
+
+WavePay
+
+Visa
+
+MPU
+
+အားလုံးက "Payment လုပ်တာ" တူပေမယ့် Implementation မတူဘူး။ if-else အကြီးကြီးရေးမယ့်အစား Strategy Pattern သုံးရင် သန့်ရှင်းပြီး Extend လုပ်ရလွယ်ပါတယ်။
