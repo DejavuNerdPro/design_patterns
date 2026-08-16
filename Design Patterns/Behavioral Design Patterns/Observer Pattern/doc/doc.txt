@@ -1,0 +1,15 @@
+﻿- Purpose : Object တစ်ခု (Subject) ပြောင်းလဲသွားတဲ့အခါ သူ့ကို စောင့်ကြည့်နေတဲ့ Object (Observers) အားလုံးကို အလိုအလျောက် အသိပေးတဲ့ Pattern ဖြစ်ပါတယ်။
+
+.NET Developer Interview မှာလည်း Event, Delegate, IObservable<T> နဲ့ ဆက်စပ်ပြီး မေးလေ့ရှိပါတယ်။
+
+Observer Design Pattern ဆိုတာဘာလဲ? (မြန်မာလို)
+
+Observer Pattern မှာ အဓိက Actor နှစ်ခုရှိပါတယ်။
+
+Subject (Publisher) – Data ကို ပိုင်ဆိုင်ပြီး ပြောင်းလဲတဲ့ Object
+
+Observer (Subscriber) – Subject ကို Subscribe လုပ်ထားပြီး Update ရတဲ့ Object
+
+Subject မှာ Data ပြောင်းတာနဲ့ Observer တွေကို Notify() လုပ်ပေးပါတယ်။
+
+"တစ်ယောက်ပြောင်းတာကို အများကြီးကို အလိုအလျောက် အသိပေးတာ" လို့ မှတ်ထားနိုင်ပါတယ်။
