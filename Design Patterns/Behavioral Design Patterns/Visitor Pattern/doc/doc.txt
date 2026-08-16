@@ -1,0 +1,25 @@
+﻿-Visitor Design Pattern က Behavioral Design Pattern တစ်ခုဖြစ်ပြီး Object Structure ကို မပြောင်းဘဲ အသစ်သော Operation (Functionality) တွေ ထပ်ထည့်ချင်တဲ့အခါ အသုံးပြုပါတယ်။
+
+-Real Life Example
+
+Hospital ကို ဥပမာယူမယ်။
+
+Doctor
+
+Nurse
+
+Patient
+
+ဒီလူတွေကို
+
+Health Inspector
+
+Tax Officer
+
+Insurance Officer
+
+အမျိုးမျိုးလာစစ်နိုင်တယ်။
+
+လူတစ်ယောက်ချင်းစီကို ပြင်စရာမလိုဘူး။
+
+လာတဲ့ Officer (Visitor) က သူ့အလုပ်သူလုပ်သွားတယ်။
