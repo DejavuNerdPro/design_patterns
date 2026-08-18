@@ -1,0 +1,3 @@
+﻿Facade  means outer face of something
+
+Purpose : to proceed one object for the group of classes (complex large system)
