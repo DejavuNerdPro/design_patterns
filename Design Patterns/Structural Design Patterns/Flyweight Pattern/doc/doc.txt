@@ -1,0 +1,5 @@
+﻿Flyweight - save weight that is memory
+- object instantiate lote yin related properties all ka memory hmr address yu tl
+- object yet properties tway ka state two ku shi tl - intrinstic state and extrinstic state
+instrinstic state - versertile pyit nel tat properties
+extrinstic state - vice versa
