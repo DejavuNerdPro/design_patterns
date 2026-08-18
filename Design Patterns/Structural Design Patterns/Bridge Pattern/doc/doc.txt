@@ -1,0 +1,8 @@
+﻿Abstraction နဲ့ Implementation ကို ခွဲထားတာ
+
+Class 1 - Abstraction နဲ့ Implementation ကို ခွဲထားတာ
+Class 2 - Abstraction နဲ့ Implementation ကို ခွဲထားတာ
+
+Class1 << has a >> Class2
+
+<< has a >> means a bridge between two classes.
