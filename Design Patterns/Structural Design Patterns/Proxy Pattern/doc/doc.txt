@@ -1,0 +1,13 @@
+﻿Proxy means ကြားခံ
+Purpose - Original Object ကို တိုက်ရိုက်မခေါ်ဘဲ ကြားခံ (Proxy) Object တစ်ခုကနေ Access လုပ်စေတယ်
+Proxy Pattern ကို ဘာကြောင့် သုံးလဲ?
+
+Lazy Loading
+
+Access Control
+
+Logging
+
+Caching
+
+Remote Access
